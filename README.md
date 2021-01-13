@@ -25,5 +25,5 @@ The objective of the project is - to use Fashion-MNIST data set to identify (pre
 8. Fine-tuning the model by finding the best hyper-parameters and features
 
 9. Evaluating selected model using test dataset
-## Load the Dataset
+# Load the Dataset
 ![](mnistdig.png)
